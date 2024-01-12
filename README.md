@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6499.jpg?w=996)]
+![MasterHead](https://img.freepik.com/premium-vector/web-development-coding-programming-futuristic-banner-computer-code-computer_3482-6499.jpg?w=996)
 <h1 align="center">Hi 👋, I'm Ghaith Chebbi</h1>
 <h3 align="center">‍ Institut Supérieur d'Informatique CS student | Aspiring front-end dev</h3>
 <img align="right" alt="Coding" width="400" src="https://www.lambdatest.com/resources/images/news24.gif">
